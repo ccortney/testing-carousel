@@ -1,0 +1,22 @@
+.Carousel-main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .Carousel-main > button {
+    cursor: pointer;
+    margin: 10px;
+    color: #aaa;
+  }
+  
+  .Carousel-main > button:hover {
+    color: black;
+  }
+
+  .hidden {
+    visibility: hidden;
+  }
+
+
+  
